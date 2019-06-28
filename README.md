@@ -1,4 +1,4 @@
-# Hupu_HOT_Line_Get
+# HupuHotGet
 
 虎扑热帖获取 ver0.1
 
