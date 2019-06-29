@@ -189,8 +189,8 @@ def main():
     HG.gui_arrang()
     # HG.get_inf()
     # 主程序执行
+    print("This is a new version control system.")
     mainloop()
-    pass
 
 
 if __name__ == "__main__":
