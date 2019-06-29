@@ -2,6 +2,10 @@
 
 虎扑热帖获取 ver0.1
 
+利用BS4库实现的简单爬虫 
+
+界面辣眼睛XD
+
 ![image](https://github.com/XBB1995/Hupu_HOT_Line_Get/raw/master/ScreenShot/微信图片编辑_20181122165644.png)
 
 # 2018.11.16
